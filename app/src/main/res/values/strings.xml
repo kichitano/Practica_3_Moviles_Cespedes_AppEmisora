@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Laboratorio Intents</string>
+    <string name="app_name">AppEmisora</string>
     <string name="send_to">Enviar con:</string>
 </resources>
